@@ -1,0 +1,14 @@
+{
+  "name": "angular-demo",
+  "version": "0.0.0",
+  "homepage": "https://github.com/shrutijalewar/angular-demo",
+  "authors": [
+    "shruti sharma <shrutijalewar@gmail.com>"
+  ],
+  "description": "first demo",
+  "main": "public/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.3.0-rc.0"
+  }
+}
